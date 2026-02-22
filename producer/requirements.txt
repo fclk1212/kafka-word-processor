@@ -1,0 +1,13 @@
+# Kafka client (C extension – fast & production-ready)
+confluent-kafka==2.4.0
+
+# HTTP requests with retry support
+requests==2.31.0
+urllib3==2.2.1
+
+# Settings management via environment variables / .env
+pydantic==2.7.1
+pydantic-settings==2.2.1
+
+# ── Dev / test dependencies (install with: pip install -r requirements-dev.txt) ──
+# See requirements-dev.txt

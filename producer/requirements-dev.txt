@@ -1,0 +1,7 @@
+-r requirements.txt
+
+pytest==8.2.0
+pytest-cov==5.0.0
+responses==0.25.0     # Mock HTTP requests in tests
+ruff==0.4.4           # Linter + formatter
+mypy==1.10.0          # Type checker

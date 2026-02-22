@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Istanbul
+https://en.wikipedia.org/wiki/Apache_Kafka
+https://tr.wikipedia.org/wiki/Türkiye
