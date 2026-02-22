@@ -72,4 +72,4 @@ def test_http_error_raises(fetcher):
 
 def test_different_language_uses_correct_url():
     tr_fetcher = WikipediaFetcher(language="tr")
-    assert "tr.wikipedia.org" in tr_fetcher._base_url
+    assert "tr.wikipedia.org" in tr_fetcher._random_url
